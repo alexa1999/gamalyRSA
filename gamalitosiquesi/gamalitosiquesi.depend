@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1575124038 source:d:\anel\abstracta\gamalitosiquesi\src\elgamal.cpp
+	"elgamal.h"
+
+1575122121 d:\anel\abstracta\gamalitosiquesi\include\elgamal.h
+	<string>
+	<NTL/ZZ.h>
+	"funciones.h"
+	<sstream>
+
+1575122121 d:\anel\abstracta\gamalitosiquesi\include\funciones.h
+	<iostream>
+	<NTL/ZZ.h>
+	<NTL/vector.h>
+	<chrono>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<time.h>
+	<math.h>
+	<bitset>
+
+1575124031 source:d:\anel\abstracta\gamalitosiquesi\src\funciones.cpp
+	"funciones.h"
+
+1575123132 source:d:\anel\abstracta\gamalitosiquesi\main.cpp
+	<iostream>
+	"elgamal.h"
+
