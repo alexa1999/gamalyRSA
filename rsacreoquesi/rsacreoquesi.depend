@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1575121167 source:d:\anel\abstracta\rsacreoquesi\src\headmathlib.cpp
+	"headMathLib.h"
+
+1575121165 d:\anel\abstracta\rsacreoquesi\include\headmathlib.h
+	<iostream>
+	<NTL/ZZ.h>
+	<NTL/vector.h>
+	<chrono>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<string>
+	<sstream>
+	<time.h>
+	<math.h>
+	<bitset>
+	"RC4.h"
+
+1575124678 source:d:\anel\abstracta\rsacreoquesi\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<sstream>
+	"rsa.h"
+
+1575121264 d:\anel\abstracta\rsacreoquesi\include\rsa.h
+	<iostream>
+	<sstream>
+	"RC4.h"
+	"headMathLib.h"
+	<stdlib.h>
+	<time.h>
+
+1575121298 d:\anel\abstracta\rsacreoquesi\include\rc4.h
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<stdint.h>
+	<NTL/ZZ.h>
+	<x86intrin.h>
+	<bitset>
+	"headMathLib.h"
+
+1575124678 source:d:\anel\abstracta\rsacreoquesi\src\rsa.cpp
+	"rsa.h"
+
+1575124427 source:d:\anel\abstracta\rsacreoquesi\src\rc4.cpp
+	"RC4.h"
+
